@@ -1,15 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-host',
   templateUrl: './host.component.html',
-  styleUrls: ['./host.component.css']
+  styleUrls: ['./host.component.css'],
 })
-export class HostComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
-}
+export class HostComponent {}

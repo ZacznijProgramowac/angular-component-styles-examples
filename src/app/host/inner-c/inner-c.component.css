@@ -1,18 +1,18 @@
-/*:host {*/
-/*  display: flex;*/
-/*  border: 3px solid black;*/
-/*  justify-content: space-between;*/
-/*  background: antiquewhite;*/
-/*}*/
+:host {
+  display: flex;
+  border: 3px solid black;
+  justify-content: space-between;
+  background: antiquewhite;
+}
 
-/*:host(.small) div {*/
-/*  height: 100px;*/
-/*  width: 100px;*/
-/*}*/
+:host(.small) div {
+  height: 100px;
+  width: 100px;
+}
 
-/*:host-context(.dark-mode) {*/
-/*  background: #47484b;*/
-/*}*/
+:host-context(.dark-mode) {
+  background: #47484b;
+}
 
 div {
   height: 200px;

@@ -4,9 +4,6 @@ import { Component, ViewEncapsulation } from '@angular/core';
   selector: 'app-inner-b',
   templateUrl: './inner-b.component.html',
   styleUrls: ['./inner-b.component.css'],
-  encapsulation: ViewEncapsulation.Emulated,
+  encapsulation: ViewEncapsulation.None,
 })
-export class InnerBComponent   {
-
-
-}
+export class InnerBComponent {}
