@@ -7,7 +7,8 @@
 - kanał YT: [https://www.youtube.com/ZacznijProgramowac](https://www.youtube.com/ZacznijProgramowac)
 
 # Otwórz ten projekt przez StackBlitz:
-...
+StackBlitz: [https://stackblitz.com/github/ZacznijProgramowac/angular-component-styles-examples](https://stackblitz.com/github/ZacznijProgramowac/angular-component-styles-examples)
+
 
 ## Wymagania projektu
 - Angular CLI & Angular > 9.0.0
